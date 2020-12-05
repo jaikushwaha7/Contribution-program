@@ -1,4 +1,4 @@
-*** Learning at Devincept ***
+***Learning at Devincept ***
 
 <h1> Finance and Risk Analytics </h1>
  
@@ -26,4 +26,4 @@ Solutions for the future of fintech which they upgrade together with fintech sec
 Machine Learning in Banking Risk Management
 There is an increasing influence of machine learning in business applications, with many solutions already implemented and many more being explored. Since the global financial crisis, risk management in banks has gained more prominence, and there has been a constant focus around how risks are being detected, measured, reported and managed. Considerable research in academia and industry has focused on the developments in banking and risk management and the current and emerging challenges
 
-**Target is to create a model for the financial companies using python classifying and predicting as defaulter and doing credit scoring of the same via ML techniques.
+**Target is to create a model for the financial companies using python classifying and predicting as defaulter and doing credit scoring of the same via ML techniques.**
