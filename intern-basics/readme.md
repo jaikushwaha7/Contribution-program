@@ -16,12 +16,14 @@ These reasons explain why banks have to develop efficient strategies and invest 
 •	Upto 74% FDI is allowed in Private banking and Public Sector.
  
 Various Fields in Banking where Fintech can be used:
- 
+ ![alt text](https://github.com/jaikushwaha7/Contribution-program/blob/master/intern-basics/Picture3.png)
 
 Solutions for the future of fintech which they upgrade together with fintech sector are:
  
- 
+ ![alt text](https://github.com/jaikushwaha7/Contribution-program/blob/master/intern-basics/Picture5.png)
 
 
 Machine Learning in Banking Risk Management
 There is an increasing influence of machine learning in business applications, with many solutions already implemented and many more being explored. Since the global financial crisis, risk management in banks has gained more prominence, and there has been a constant focus around how risks are being detected, measured, reported and managed. Considerable research in academia and industry has focused on the developments in banking and risk management and the current and emerging challenges
+
+**Target is to create a model for the financial companies using python classifying and predicting as defaulter and doing credit scoring of the same via ML techniques.
