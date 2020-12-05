@@ -1,6 +1,9 @@
 *** Learning at Devincept ***
+
+<h1> Finance and Risk Analytics </h1>
  
-Financial sector lacks technology products to reach every user wherever they are located. Today around 2.5 billion people (out of 7.8 billion world population) do not have access to Financial Services.
+**Financial sector lacks technology products to reach every user wherever they are located. Today around 2.5 billion people (out of 7.8 billion world population) do not have access to Financial Services.**
+
 People demand innovations from banks, higher reliability and faster services. Technology progress necessitates it from banks which do not have capabilities to drive technology changes themselves. They are too slow to react, and actually minority of banks focus on  fintech innovations and take measures to implement everything into reality. 
 Indian Financial Sector: Financial Sector of India is intrinsically strong, operationally sundry and exhibits competence and flexibility besides being sensitive to India’s economic aims of developing a market oriented, industrious and viable economy.
 Things financial technology drastically improves:
